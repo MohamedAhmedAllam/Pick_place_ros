@@ -1,6 +1,7 @@
 # Pick_place_ros
 Pick and place - motion planning of a 6-DOF manipulator
 
+Project video: https://youtu.be/WUDkOi_OQT8
 
 src folder for the whole workspace:
 Downlaod src.zip, unzip in a folder then run catkin_make
